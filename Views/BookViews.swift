@@ -21,7 +21,6 @@ extension Book {
                 .frame(width: 80, height: 80)
                 .font(Font.title.weight(.light))
                 .foregroundColor(.secondary)
-                .padding()
         }
     }
 }
